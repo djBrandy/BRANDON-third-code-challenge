@@ -6,7 +6,7 @@
 A Flatadango web application that allows its users to purchase the available movie tickets.
 
 ## LIVE SITE
-https://djbrandy.github.io/Brandon-Dando-Third-Code-Challenge/
+https://djbrandy.github.io/BRANDON-third-code-challenge/
 
 ## TECHNOLOGIES
 1. HTML
